@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Fist project in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdikadf/project1.git"
+  },
+  "author": "Vladyslav Khvorostianyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valdikadf/project1/issues"
+  },
+  "homepage": "https://github.com/valdikadf/project1#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
+}
